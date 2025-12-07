@@ -70,7 +70,7 @@ RegisterNumber: 25009198
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![SR-FLIPFLOP-USING-if else_page-0001](https://github.com/user-attachments/assets/05452aa0-f6c4-40fd-a88b-1485bd9f7da1)
+![jkifti_page-0001](https://github.com/user-attachments/assets/c559fcaa-e427-4de3-84c4-ab79f2f2624a)
 
 
 **RESULTS**
