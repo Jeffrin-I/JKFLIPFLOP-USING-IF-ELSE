@@ -69,8 +69,8 @@ RegisterNumber: 25009198
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![jkiftime_page-0001](https://github.com/user-attachments/assets/42b7b2c3-7c6f-429d-b493-ac565cb096a2)
 
-![jkifti_page-0001](https://github.com/user-attachments/assets/c559fcaa-e427-4de3-84c4-ab79f2f2624a)
 
 
 **RESULTS**
